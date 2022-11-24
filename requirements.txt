@@ -18,7 +18,7 @@ charset-normalizer==2.0.6
     # via requests
 clang==5.0
     # via tensorflow
-flatbuffers==1.12
+flatbuffers==22.11.23
     # via tensorflow
 gast==0.4.0
     # via tensorflow
